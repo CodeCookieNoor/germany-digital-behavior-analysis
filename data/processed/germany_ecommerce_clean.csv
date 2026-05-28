@@ -1,0 +1,289 @@
+demo_code,demographic,demo_type,education_level,indicator_code,indicator_name,country,year,unit,value,obs_flag,missing_flag
+F_Y16_74,"Females, 16 to 74 years old",Gender,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,26.81,,False
+F_Y16_74,"Females, 16 to 74 years old",Gender,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,20.67,b,False
+F_Y16_74,"Females, 16 to 74 years old",Gender,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,22.92,,False
+F_Y16_74,"Females, 16 to 74 years old",Gender,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,21.8,,False
+F_Y16_74,"Females, 16 to 74 years old",Gender,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,15.44,,False
+F_Y16_74,"Females, 16 to 74 years old",Gender,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,10.74,b,False
+F_Y16_74,"Females, 16 to 74 years old",Gender,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,11.21,,False
+F_Y16_74,"Females, 16 to 74 years old",Gender,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,11.53,,False
+F_Y16_74,"Females, 16 to 74 years old",Gender,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,13.91,,False
+F_Y16_74,"Females, 16 to 74 years old",Gender,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,12.27,b,False
+F_Y16_74,"Females, 16 to 74 years old",Gender,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,12.81,,False
+F_Y16_74,"Females, 16 to 74 years old",Gender,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,14.32,,False
+IND_TOTAL,All individuals,Other,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,26.97,,False
+IND_TOTAL,All individuals,Other,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,20.17,b,False
+IND_TOTAL,All individuals,Other,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,22.1,,False
+IND_TOTAL,All individuals,Other,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,22.37,,False
+IND_TOTAL,All individuals,Other,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,14.96,,False
+IND_TOTAL,All individuals,Other,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,10.23,b,False
+IND_TOTAL,All individuals,Other,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,10.85,,False
+IND_TOTAL,All individuals,Other,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,11.75,,False
+IND_TOTAL,All individuals,Other,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,15.17,,False
+IND_TOTAL,All individuals,Other,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,12.25,b,False
+IND_TOTAL,All individuals,Other,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,13.07,,False
+IND_TOTAL,All individuals,Other,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,14.27,,False
+M_Y16_74,"Males, 16 to 74 years old",Gender,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,27.12,,False
+M_Y16_74,"Males, 16 to 74 years old",Gender,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,19.67,b,False
+M_Y16_74,"Males, 16 to 74 years old",Gender,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,21.28,,False
+M_Y16_74,"Males, 16 to 74 years old",Gender,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,22.95,,False
+M_Y16_74,"Males, 16 to 74 years old",Gender,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,14.48,,False
+M_Y16_74,"Males, 16 to 74 years old",Gender,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,9.73,b,False
+M_Y16_74,"Males, 16 to 74 years old",Gender,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,10.5,,False
+M_Y16_74,"Males, 16 to 74 years old",Gender,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,11.96,,False
+M_Y16_74,"Males, 16 to 74 years old",Gender,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,16.41,,False
+M_Y16_74,"Males, 16 to 74 years old",Gender,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,12.22,b,False
+M_Y16_74,"Males, 16 to 74 years old",Gender,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,13.33,,False
+M_Y16_74,"Males, 16 to 74 years old",Gender,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,14.22,,False
+Y16_24,"Individuals, 16 to 24 years old",Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,31.98,,False
+Y16_24,"Individuals, 16 to 24 years old",Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,22.81,b,False
+Y16_24,"Individuals, 16 to 24 years old",Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,25.35,,False
+Y16_24,"Individuals, 16 to 24 years old",Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,23.68,,False
+Y16_24,"Individuals, 16 to 24 years old",Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,13.3,,False
+Y16_24,"Individuals, 16 to 24 years old",Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,12.04,b,False
+Y16_24,"Individuals, 16 to 24 years old",Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,13.0,,False
+Y16_24,"Individuals, 16 to 24 years old",Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,12.14,,False
+Y16_24,"Individuals, 16 to 24 years old",Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,10.45,,False
+Y16_24,"Individuals, 16 to 24 years old",Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,11.22,b,False
+Y16_24,"Individuals, 16 to 24 years old",Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,9.61,,False
+Y16_24,"Individuals, 16 to 24 years old",Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,10.88,,False
+Y16_24HI,Individuals aged 16-24 with high formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,37.46,,False
+Y16_24HI,Individuals aged 16-24 with high formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,26.63,b,False
+Y16_24HI,Individuals aged 16-24 with high formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,32.44,,False
+Y16_24HI,Individuals aged 16-24 with high formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,30.53,,False
+Y16_24HI,Individuals aged 16-24 with high formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,22.02,,False
+Y16_24HI,Individuals aged 16-24 with high formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,16.66,b,False
+Y16_24HI,Individuals aged 16-24 with high formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,18.44,,False
+Y16_24HI,Individuals aged 16-24 with high formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,13.04,,False
+Y16_24HI,Individuals aged 16-24 with high formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,28.17,,False
+Y16_24HI,Individuals aged 16-24 with high formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,27.25,b,False
+Y16_24HI,Individuals aged 16-24 with high formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,21.43,,False
+Y16_24HI,Individuals aged 16-24 with high formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,17.11,,False
+Y16_24LO,Individuals aged 16-24 with low education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,28.46,,False
+Y16_24LO,Individuals aged 16-24 with low education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,18.4,b,False
+Y16_24LO,Individuals aged 16-24 with low education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,19.49,,False
+Y16_24LO,Individuals aged 16-24 with low education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,19.05,,False
+Y16_24LO,Individuals aged 16-24 with low education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,9.55,,False
+Y16_24LO,Individuals aged 16-24 with low education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,8.69,b,False
+Y16_24LO,Individuals aged 16-24 with low education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,8.75,,False
+Y16_24LO,Individuals aged 16-24 with low education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,7.66,,False
+Y16_24LO,Individuals aged 16-24 with low education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,7.17,,False
+Y16_24LO,Individuals aged 16-24 with low education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,7.08,b,False
+Y16_24LO,Individuals aged 16-24 with low education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,7.37,,False
+Y16_24LO,Individuals aged 16-24 with low education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,9.82,,False
+Y16_24ME,Individuals aged 16-24 with medium formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,37.58,,False
+Y16_24ME,Individuals aged 16-24 with medium formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,27.21,b,False
+Y16_24ME,Individuals aged 16-24 with medium formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,32.11,,False
+Y16_24ME,Individuals aged 16-24 with medium formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,27.57,,False
+Y16_24ME,Individuals aged 16-24 with medium formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,18.96,,False
+Y16_24ME,Individuals aged 16-24 with medium formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,15.3,b,False
+Y16_24ME,Individuals aged 16-24 with medium formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,17.43,,False
+Y16_24ME,Individuals aged 16-24 with medium formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,16.72,,False
+Y16_24ME,Individuals aged 16-24 with medium formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,14.36,,False
+Y16_24ME,Individuals aged 16-24 with medium formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,13.86,b,False
+Y16_24ME,Individuals aged 16-24 with medium formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,10.81,,False
+Y16_24ME,Individuals aged 16-24 with medium formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,11.08,,False
+Y25_54,"Individuals, 25 to 54 years old",Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,29.14,,False
+Y25_54,"Individuals, 25 to 54 years old",Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,21.9,b,False
+Y25_54,"Individuals, 25 to 54 years old",Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,23.19,,False
+Y25_54,"Individuals, 25 to 54 years old",Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,24.11,,False
+Y25_54,"Individuals, 25 to 54 years old",Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,18.79,,False
+Y25_54,"Individuals, 25 to 54 years old",Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,12.1,b,False
+Y25_54,"Individuals, 25 to 54 years old",Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,13.14,,False
+Y25_54,"Individuals, 25 to 54 years old",Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,13.91,,False
+Y25_54,"Individuals, 25 to 54 years old",Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,21.85,,False
+Y25_54,"Individuals, 25 to 54 years old",Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,16.81,b,False
+Y25_54,"Individuals, 25 to 54 years old",Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,18.39,,False
+Y25_54,"Individuals, 25 to 54 years old",Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,18.86,,False
+Y25_54HI,Individuals aged 25 to 54 with high formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,26.87,,False
+Y25_54HI,Individuals aged 25 to 54 with high formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,24.4,b,False
+Y25_54HI,Individuals aged 25 to 54 with high formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,25.57,,False
+Y25_54HI,Individuals aged 25 to 54 with high formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,25.65,,False
+Y25_54HI,Individuals aged 25 to 54 with high formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,22.37,,False
+Y25_54HI,Individuals aged 25 to 54 with high formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,16.52,b,False
+Y25_54HI,Individuals aged 25 to 54 with high formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,16.23,,False
+Y25_54HI,Individuals aged 25 to 54 with high formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,16.69,,False
+Y25_54HI,Individuals aged 25 to 54 with high formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,30.2,,False
+Y25_54HI,Individuals aged 25 to 54 with high formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,23.86,b,False
+Y25_54HI,Individuals aged 25 to 54 with high formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,26.76,,False
+Y25_54HI,Individuals aged 25 to 54 with high formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,25.12,,False
+Y25_54LO,Individuals aged 25 to 54 with low formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,23.45,,False
+Y25_54LO,Individuals aged 25 to 54 with low formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,13.65,b,False
+Y25_54LO,Individuals aged 25 to 54 with low formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,15.25,,False
+Y25_54LO,Individuals aged 25 to 54 with low formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,14.72,,False
+Y25_54LO,Individuals aged 25 to 54 with low formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,13.22,,False
+Y25_54LO,Individuals aged 25 to 54 with low formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,5.8,b,False
+Y25_54LO,Individuals aged 25 to 54 with low formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,5.64,,False
+Y25_54LO,Individuals aged 25 to 54 with low formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,5.98,,False
+Y25_54LO,Individuals aged 25 to 54 with low formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,8.67,,False
+Y25_54LO,Individuals aged 25 to 54 with low formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,4.54,b,False
+Y25_54LO,Individuals aged 25 to 54 with low formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,6.45,,False
+Y25_54LO,Individuals aged 25 to 54 with low formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,6.36,,False
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,31.25,,False
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,22.59,b,False
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,24.09,,False
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,25.68,,False
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,17.92,,False
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,11.04,b,False
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,13.36,,False
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,14.05,,False
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,19.82,,False
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,15.74,b,False
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,16.18,,False
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,17.56,,False
+Y55_74,"Individuals, 55 to 74 years old",Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,21.51,,False
+Y55_74,"Individuals, 55 to 74 years old",Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,16.86,b,False
+Y55_74,"Individuals, 55 to 74 years old",Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,19.43,,False
+Y55_74,"Individuals, 55 to 74 years old",Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,19.49,,False
+Y55_74,"Individuals, 55 to 74 years old",Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,9.33,,False
+Y55_74,"Individuals, 55 to 74 years old",Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,7.01,b,False
+Y55_74,"Individuals, 55 to 74 years old",Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,6.83,,False
+Y55_74,"Individuals, 55 to 74 years old",Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,8.58,,False
+Y55_74,"Individuals, 55 to 74 years old",Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,6.04,,False
+Y55_74,"Individuals, 55 to 74 years old",Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,6.16,b,False
+Y55_74,"Individuals, 55 to 74 years old",Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,6.56,,False
+Y55_74,"Individuals, 55 to 74 years old",Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,8.97,,False
+Y55_74HI,Individuals aged 55 to 74 with high formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,30.39,,False
+Y55_74HI,Individuals aged 55 to 74 with high formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,23.55,b,False
+Y55_74HI,Individuals aged 55 to 74 with high formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,26.93,,False
+Y55_74HI,Individuals aged 55 to 74 with high formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,23.76,,False
+Y55_74HI,Individuals aged 55 to 74 with high formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,13.87,,False
+Y55_74HI,Individuals aged 55 to 74 with high formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,11.25,b,False
+Y55_74HI,Individuals aged 55 to 74 with high formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,10.13,,False
+Y55_74HI,Individuals aged 55 to 74 with high formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,12.17,,False
+Y55_74HI,Individuals aged 55 to 74 with high formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,9.41,,False
+Y55_74HI,Individuals aged 55 to 74 with high formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,9.28,b,False
+Y55_74HI,Individuals aged 55 to 74 with high formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,11.01,,False
+Y55_74HI,Individuals aged 55 to 74 with high formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,13.49,,False
+Y55_74LO,Individuals aged 55 to 74 with low formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,11.73,,False
+Y55_74LO,Individuals aged 55 to 74 with low formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,9.07,b,False
+Y55_74LO,Individuals aged 55 to 74 with low formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,11.72,,False
+Y55_74LO,Individuals aged 55 to 74 with low formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,9.62,,False
+Y55_74LO,Individuals aged 55 to 74 with low formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,5.29,,False
+Y55_74LO,Individuals aged 55 to 74 with low formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,2.13,b,False
+Y55_74LO,Individuals aged 55 to 74 with low formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,3.36,,False
+Y55_74LO,Individuals aged 55 to 74 with low formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,3.68,,False
+Y55_74LO,Individuals aged 55 to 74 with low formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,1.21,,False
+Y55_74LO,Individuals aged 55 to 74 with low formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,1.71,b,False
+Y55_74LO,Individuals aged 55 to 74 with low formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,1.6,,False
+Y55_74LO,Individuals aged 55 to 74 with low formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,5.47,,False
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,21.38,,False
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,15.84,b,False
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,18.21,,False
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,Age,Not Education Segment,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,19.6,,False
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,9.01,,False
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,6.37,b,False
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,6.32,,False
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,Age,Not Education Segment,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,7.87,,False
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,6.28,,False
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,5.92,b,False
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,5.97,,False
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,Age,Not Education Segment,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,7.44,,False
+Y16_24HI,Individuals aged 16-24 with high formal education,,High Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,37.46,,
+Y16_24HI,Individuals aged 16-24 with high formal education,,High Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,26.63,,
+Y16_24HI,Individuals aged 16-24 with high formal education,,High Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,32.44,,
+Y16_24HI,Individuals aged 16-24 with high formal education,,High Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,30.53,,
+Y16_24HI,Individuals aged 16-24 with high formal education,,High Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,22.02,,
+Y16_24HI,Individuals aged 16-24 with high formal education,,High Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,16.66,,
+Y16_24HI,Individuals aged 16-24 with high formal education,,High Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,18.44,,
+Y16_24HI,Individuals aged 16-24 with high formal education,,High Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,13.04,,
+Y16_24HI,Individuals aged 16-24 with high formal education,,High Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,28.17,,
+Y16_24HI,Individuals aged 16-24 with high formal education,,High Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,27.25,,
+Y16_24HI,Individuals aged 16-24 with high formal education,,High Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,21.43,,
+Y16_24HI,Individuals aged 16-24 with high formal education,,High Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,17.11,,
+Y16_24LO,Individuals aged 16-24 with low education,,Low Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,28.46,,
+Y16_24LO,Individuals aged 16-24 with low education,,Low Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,18.4,,
+Y16_24LO,Individuals aged 16-24 with low education,,Low Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,19.49,,
+Y16_24LO,Individuals aged 16-24 with low education,,Low Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,19.05,,
+Y16_24LO,Individuals aged 16-24 with low education,,Low Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,9.55,,
+Y16_24LO,Individuals aged 16-24 with low education,,Low Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,8.69,,
+Y16_24LO,Individuals aged 16-24 with low education,,Low Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,8.75,,
+Y16_24LO,Individuals aged 16-24 with low education,,Low Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,7.66,,
+Y16_24LO,Individuals aged 16-24 with low education,,Low Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,7.17,,
+Y16_24LO,Individuals aged 16-24 with low education,,Low Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,7.08,,
+Y16_24LO,Individuals aged 16-24 with low education,,Low Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,7.37,,
+Y16_24LO,Individuals aged 16-24 with low education,,Low Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,9.82,,
+Y16_24ME,Individuals aged 16-24 with medium formal education,,Medium Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,37.58,,
+Y16_24ME,Individuals aged 16-24 with medium formal education,,Medium Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,27.21,,
+Y16_24ME,Individuals aged 16-24 with medium formal education,,Medium Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,32.11,,
+Y16_24ME,Individuals aged 16-24 with medium formal education,,Medium Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,27.57,,
+Y16_24ME,Individuals aged 16-24 with medium formal education,,Medium Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,18.96,,
+Y16_24ME,Individuals aged 16-24 with medium formal education,,Medium Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,15.3,,
+Y16_24ME,Individuals aged 16-24 with medium formal education,,Medium Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,17.43,,
+Y16_24ME,Individuals aged 16-24 with medium formal education,,Medium Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,16.72,,
+Y16_24ME,Individuals aged 16-24 with medium formal education,,Medium Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,14.36,,
+Y16_24ME,Individuals aged 16-24 with medium formal education,,Medium Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,13.86,,
+Y16_24ME,Individuals aged 16-24 with medium formal education,,Medium Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,10.81,,
+Y16_24ME,Individuals aged 16-24 with medium formal education,,Medium Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,11.08,,
+Y25_54HI,Individuals aged 25 to 54 with high formal education,,High Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,26.87,,
+Y25_54HI,Individuals aged 25 to 54 with high formal education,,High Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,24.4,,
+Y25_54HI,Individuals aged 25 to 54 with high formal education,,High Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,25.57,,
+Y25_54HI,Individuals aged 25 to 54 with high formal education,,High Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,25.65,,
+Y25_54HI,Individuals aged 25 to 54 with high formal education,,High Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,22.37,,
+Y25_54HI,Individuals aged 25 to 54 with high formal education,,High Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,16.52,,
+Y25_54HI,Individuals aged 25 to 54 with high formal education,,High Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,16.23,,
+Y25_54HI,Individuals aged 25 to 54 with high formal education,,High Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,16.69,,
+Y25_54HI,Individuals aged 25 to 54 with high formal education,,High Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,30.2,,
+Y25_54HI,Individuals aged 25 to 54 with high formal education,,High Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,23.86,,
+Y25_54HI,Individuals aged 25 to 54 with high formal education,,High Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,26.76,,
+Y25_54HI,Individuals aged 25 to 54 with high formal education,,High Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,25.12,,
+Y25_54LO,Individuals aged 25 to 54 with low formal education,,Low Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,23.45,,
+Y25_54LO,Individuals aged 25 to 54 with low formal education,,Low Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,13.65,,
+Y25_54LO,Individuals aged 25 to 54 with low formal education,,Low Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,15.25,,
+Y25_54LO,Individuals aged 25 to 54 with low formal education,,Low Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,14.72,,
+Y25_54LO,Individuals aged 25 to 54 with low formal education,,Low Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,13.22,,
+Y25_54LO,Individuals aged 25 to 54 with low formal education,,Low Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,5.8,,
+Y25_54LO,Individuals aged 25 to 54 with low formal education,,Low Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,5.64,,
+Y25_54LO,Individuals aged 25 to 54 with low formal education,,Low Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,5.98,,
+Y25_54LO,Individuals aged 25 to 54 with low formal education,,Low Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,8.67,,
+Y25_54LO,Individuals aged 25 to 54 with low formal education,,Low Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,4.54,,
+Y25_54LO,Individuals aged 25 to 54 with low formal education,,Low Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,6.45,,
+Y25_54LO,Individuals aged 25 to 54 with low formal education,,Low Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,6.36,,
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,,Medium Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,31.25,,
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,,Medium Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,22.59,,
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,,Medium Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,24.09,,
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,,Medium Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,25.68,,
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,,Medium Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,17.92,,
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,,Medium Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,11.04,,
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,,Medium Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,13.36,,
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,,Medium Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,14.05,,
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,,Medium Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,19.82,,
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,,Medium Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,15.74,,
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,,Medium Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,16.18,,
+Y25_54ME,Individuals aged 25 to 54 with medium formal education,,Medium Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,17.56,,
+Y55_74HI,Individuals aged 55 to 74 with high formal education,,High Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,30.39,,
+Y55_74HI,Individuals aged 55 to 74 with high formal education,,High Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,23.55,,
+Y55_74HI,Individuals aged 55 to 74 with high formal education,,High Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,26.93,,
+Y55_74HI,Individuals aged 55 to 74 with high formal education,,High Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,23.76,,
+Y55_74HI,Individuals aged 55 to 74 with high formal education,,High Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,13.87,,
+Y55_74HI,Individuals aged 55 to 74 with high formal education,,High Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,11.25,,
+Y55_74HI,Individuals aged 55 to 74 with high formal education,,High Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,10.13,,
+Y55_74HI,Individuals aged 55 to 74 with high formal education,,High Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,12.17,,
+Y55_74HI,Individuals aged 55 to 74 with high formal education,,High Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,9.41,,
+Y55_74HI,Individuals aged 55 to 74 with high formal education,,High Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,9.28,,
+Y55_74HI,Individuals aged 55 to 74 with high formal education,,High Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,11.01,,
+Y55_74HI,Individuals aged 55 to 74 with high formal education,,High Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,13.49,,
+Y55_74LO,Individuals aged 55 to 74 with low formal education,,Low Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,11.73,,
+Y55_74LO,Individuals aged 55 to 74 with low formal education,,Low Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,9.07,,
+Y55_74LO,Individuals aged 55 to 74 with low formal education,,Low Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,11.72,,
+Y55_74LO,Individuals aged 55 to 74 with low formal education,,Low Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,9.62,,
+Y55_74LO,Individuals aged 55 to 74 with low formal education,,Low Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,5.29,,
+Y55_74LO,Individuals aged 55 to 74 with low formal education,,Low Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,2.13,,
+Y55_74LO,Individuals aged 55 to 74 with low formal education,,Low Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,3.36,,
+Y55_74LO,Individuals aged 55 to 74 with low formal education,,Low Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,3.68,,
+Y55_74LO,Individuals aged 55 to 74 with low formal education,,Low Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,1.21,,
+Y55_74LO,Individuals aged 55 to 74 with low formal education,,Low Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,1.71,,
+Y55_74LO,Individuals aged 55 to 74 with low formal education,,Low Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,1.6,,
+Y55_74LO,Individuals aged 55 to 74 with low formal education,,Low Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,5.47,,
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,,Medium Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2020,PC_IND,21.38,,
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,,Medium Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2021,PC_IND,15.84,,
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,,Medium Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2023,PC_IND,18.21,,
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,,Medium Education,I_BF_3-5,Moderate Purchase Frequency (3–5 purchases),DE,2025,PC_IND,19.6,,
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,,Medium Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2020,PC_IND,9.01,,
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,,Medium Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2021,PC_IND,6.37,,
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,,Medium Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2023,PC_IND,6.32,,
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,,Medium Education,I_BF_6-10,High Purchase Frequency (6–10 purchases),DE,2025,PC_IND,7.87,,
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,,Medium Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2020,PC_IND,6.28,,
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,,Medium Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2021,PC_IND,5.92,,
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,,Medium Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2023,PC_IND,5.97,,
+Y55_74ME,Individuals aged 55 to 74 with medium formal education,,Medium Education,I_BF_GT10,Very High Purchase Frequency (10+ purchases),DE,2025,PC_IND,7.44,,
