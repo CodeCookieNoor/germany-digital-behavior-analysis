@@ -1,8 +1,8 @@
-# Germany Digital Behavior Analysis
+# Germany Digital Behavior & E-Commerce Analysis
 
 ## Project Overview
 
-This project analyzes digital behavior trends in Germany using official Eurostat datasets related to:
+This project analyzes digital behavior and e-commerce trends in Germany using official Eurostat datasets related to:
 
 * Social media participation
 * E-commerce purchasing behavior
@@ -159,18 +159,51 @@ The EDA phase includes:
 * Temporal analysis
 * Initial correlation exploration
 
-## 4. Statistical Analysis (Planned)
+## 4. Analysis
 
-Planned methods include:
+The analysis includes:
 
-* Correlation analysis
-* Comparative group analysis
-* Trend analysis
-* Aggregated relationship analysis
+* Trend analysis of digital and e-commerce indicators over time
+* Comparative analysis across age, gender, and education groups
+* Exploratory relationship analysis between digital engagement and e-commerce activity
+* Aggregated group-level comparisons using Eurostat percentage indicators
 
-## 5. Dashboard Development (Planned)
+## 5. Dashboard Development
 
-Interactive dashboards and visual reports will be created to communicate findings clearly.
+Dashboard development is currently in progress. The final dashboard will focus on the following pages:
+
+* Overview
+* Demographic analysis
+* Key insights and summary findings
+
+---
+
+# Dashboard Overview
+
+The dashboard is designed to communicate the main findings from the cleaned Eurostat data in a clear and visual format.
+
+The current dashboard work includes:
+
+* Overview of digital activity and e-commerce trends
+* Demographic comparison by age group
+* Education-level activity comparison
+* E-commerce purchasing behavior over time
+
+The key insights and summary findings page is still being prepared.
+
+---
+
+# Key Findings
+
+Initial analysis suggests that:
+
+* Email usage remains one of the strongest digital activities in Germany.
+* The 25-54 age group shows strong e-commerce participation.
+* Higher education groups demonstrate stronger overall digital engagement.
+* Social media participation is highest among younger users and lower among older age groups.
+* E-commerce participation appears to be connected with broader digital engagement patterns.
+
+These findings are based on aggregated population-level data and should be interpreted as group-level patterns.
 
 ---
 
@@ -185,6 +218,10 @@ Therefore:
 * Correlations do not imply causation
 * Potential ecological fallacy should be considered during interpretation
 
+It is also important to note that the Eurostat datasets used in this project provide aggregated indicators rather than detailed platform-level or product-level information. For example, the social media activity variable does not specify which social media platforms were used, and the product search variable does not specify what types of products or services were searched for online.
+
+Therefore, this analysis should be interpreted as an overview of general digital behavior patterns rather than a detailed analysis of specific social media platforms, product categories, or individual consumer preferences.
+
 ---
 
 # Tools & Technologies
@@ -195,6 +232,7 @@ Therefore:
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
+* Tableau
 * Git & GitHub
 
 ---
@@ -202,7 +240,7 @@ Therefore:
 # Project Structure
 
 ```text
-CAPSTONE_PROJECT/
+Capstone_project/
 
 ├── data/
 │   ├── raw/
@@ -214,15 +252,12 @@ CAPSTONE_PROJECT/
 │   ├── 01_data_cleaning.ipynb
 │   └── 02_eda.ipynb
 │
-├── outputs/
-│   ├── dashboard/
-│   └── figures/
-│
 ├── scripts/
+│   ├── analysis.py
+│   └── build_demographics_dashboard_data.py
 │
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ```
 
 ---
@@ -232,8 +267,9 @@ CAPSTONE_PROJECT/
 * [x] Data Collection
 * [x] Data Cleaning
 * [x] Initial Exploratory Data Analysis
-* [ ] Statistical Analysis
+* [x] Statistical Analysis
 * [ ] Dashboard Development
+* [ ] Key Insights and Summary Findings Page
 * [ ] Final Report
 
 ---

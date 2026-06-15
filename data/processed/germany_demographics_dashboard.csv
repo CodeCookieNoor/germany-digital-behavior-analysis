@@ -1,0 +1,421 @@
+year,source,activity,activity_detail,segment_type,segment,value,demo_type,indicator_name_original
+2020,Social,Email Usage,Email Usage,Gender,Female,86.32,Gender,Email Usage
+2021,Social,Email Usage,Email Usage,Gender,Female,77.86,Gender,Email Usage
+2022,Social,Email Usage,Email Usage,Gender,Female,78.91,Gender,Email Usage
+2023,Social,Email Usage,Email Usage,Gender,Female,81.94,Gender,Email Usage
+2024,Social,Email Usage,Email Usage,Gender,Female,84.85,Gender,Email Usage
+2025,Social,Email Usage,Email Usage,Gender,Female,86.46,Gender,Email Usage
+2020,Social,Email Usage,Email Usage,Gender,Male,87.78,Gender,Email Usage
+2021,Social,Email Usage,Email Usage,Gender,Male,81.26,Gender,Email Usage
+2022,Social,Email Usage,Email Usage,Gender,Male,81.27,Gender,Email Usage
+2023,Social,Email Usage,Email Usage,Gender,Male,84.58,Gender,Email Usage
+2024,Social,Email Usage,Email Usage,Gender,Male,86.31,Gender,Email Usage
+2025,Social,Email Usage,Email Usage,Gender,Male,89.07,Gender,Email Usage
+2020,Social,Email Usage,Email Usage,Age Group,16-24,93.72,Age,Email Usage
+2021,Social,Email Usage,Email Usage,Age Group,16-24,87.87,Age,Email Usage
+2022,Social,Email Usage,Email Usage,Age Group,16-24,84.5,Age,Email Usage
+2023,Social,Email Usage,Email Usage,Age Group,16-24,87.43,Age,Email Usage
+2024,Social,Email Usage,Email Usage,Age Group,16-24,89.87,Age,Email Usage
+2025,Social,Email Usage,Email Usage,Age Group,16-24,91.08,Age,Email Usage
+2020,Social,Email Usage,Email Usage,Education Level,High Education,99.97,Age,Email Usage
+2021,Social,Email Usage,Email Usage,Education Level,High Education,97.06,Age,Email Usage
+2022,Social,Email Usage,Email Usage,Education Level,High Education,96.51,Age,Email Usage
+2023,Social,Email Usage,Email Usage,Education Level,High Education,98.32,Age,Email Usage
+2024,Social,Email Usage,Email Usage,Education Level,High Education,96.35,Age,Email Usage
+2025,Social,Email Usage,Email Usage,Education Level,High Education,98.7,Age,Email Usage
+2020,Social,Email Usage,Email Usage,Education Level,Low Education,91.69,Age,Email Usage
+2021,Social,Email Usage,Email Usage,Education Level,Low Education,84.51,Age,Email Usage
+2022,Social,Email Usage,Email Usage,Education Level,Low Education,79.81,Age,Email Usage
+2023,Social,Email Usage,Email Usage,Education Level,Low Education,80.68,Age,Email Usage
+2024,Social,Email Usage,Email Usage,Education Level,Low Education,84.86,Age,Email Usage
+2025,Social,Email Usage,Email Usage,Education Level,Low Education,87.19,Age,Email Usage
+2020,Social,Email Usage,Email Usage,Education Level,Medium Education,96.63,Age,Email Usage
+2021,Social,Email Usage,Email Usage,Education Level,Medium Education,90.53,Age,Email Usage
+2022,Social,Email Usage,Email Usage,Education Level,Medium Education,89.25,Age,Email Usage
+2023,Social,Email Usage,Email Usage,Education Level,Medium Education,94.63,Age,Email Usage
+2024,Social,Email Usage,Email Usage,Education Level,Medium Education,96.23,Age,Email Usage
+2025,Social,Email Usage,Email Usage,Education Level,Medium Education,93.99,Age,Email Usage
+2020,Social,Email Usage,Email Usage,Education Level,High Education,98.71,Age,Email Usage
+2021,Social,Email Usage,Email Usage,Education Level,High Education,94.88,Age,Email Usage
+2022,Social,Email Usage,Email Usage,Education Level,High Education,95.07,Age,Email Usage
+2023,Social,Email Usage,Email Usage,Education Level,High Education,95.74,Age,Email Usage
+2024,Social,Email Usage,Email Usage,Education Level,High Education,96.85,Age,Email Usage
+2025,Social,Email Usage,Email Usage,Education Level,High Education,97.81,Age,Email Usage
+2020,Social,Email Usage,Email Usage,Education Level,Low Education,76.98,Age,Email Usage
+2021,Social,Email Usage,Email Usage,Education Level,Low Education,65.46,Age,Email Usage
+2022,Social,Email Usage,Email Usage,Education Level,Low Education,63.78,Age,Email Usage
+2023,Social,Email Usage,Email Usage,Education Level,Low Education,67.67,Age,Email Usage
+2024,Social,Email Usage,Email Usage,Education Level,Low Education,74.39,Age,Email Usage
+2025,Social,Email Usage,Email Usage,Education Level,Low Education,72.89,Age,Email Usage
+2020,Social,Email Usage,Email Usage,Education Level,Medium Education,93.86,Age,Email Usage
+2021,Social,Email Usage,Email Usage,Education Level,Medium Education,86.17,Age,Email Usage
+2022,Social,Email Usage,Email Usage,Education Level,Medium Education,86.72,Age,Email Usage
+2023,Social,Email Usage,Email Usage,Education Level,Medium Education,91.25,Age,Email Usage
+2024,Social,Email Usage,Email Usage,Education Level,Medium Education,91.82,Age,Email Usage
+2025,Social,Email Usage,Email Usage,Education Level,Medium Education,94.3,Age,Email Usage
+2020,Social,Email Usage,Email Usage,Age Group,25-54,90.24,Age,Email Usage
+2021,Social,Email Usage,Email Usage,Age Group,25-54,82.13,Age,Email Usage
+2022,Social,Email Usage,Email Usage,Age Group,25-54,83.21,Age,Email Usage
+2023,Social,Email Usage,Email Usage,Age Group,25-54,86.21,Age,Email Usage
+2024,Social,Email Usage,Email Usage,Age Group,25-54,88.38,Age,Email Usage
+2025,Social,Email Usage,Email Usage,Age Group,25-54,90.24,Age,Email Usage
+2020,Social,Email Usage,Email Usage,Overall,All Individuals,93.23,Age,Email Usage
+2021,Social,Email Usage,Email Usage,Overall,All Individuals,86.49,Age,Email Usage
+2022,Social,Email Usage,Email Usage,Overall,All Individuals,87.59,Age,Email Usage
+2023,Social,Email Usage,Email Usage,Overall,All Individuals,90.35,Age,Email Usage
+2024,Social,Email Usage,Email Usage,Overall,All Individuals,91.49,Age,Email Usage
+2025,Social,Email Usage,Email Usage,Overall,All Individuals,93.42,Age,Email Usage
+2020,Social,Email Usage,Email Usage,Overall,All Individuals,77.81,Age,Email Usage
+2021,Social,Email Usage,Email Usage,Overall,All Individuals,71.28,Age,Email Usage
+2022,Social,Email Usage,Email Usage,Overall,All Individuals,69.95,Age,Email Usage
+2023,Social,Email Usage,Email Usage,Overall,All Individuals,74.77,Age,Email Usage
+2024,Social,Email Usage,Email Usage,Overall,All Individuals,78.39,Age,Email Usage
+2025,Social,Email Usage,Email Usage,Overall,All Individuals,82.27,Age,Email Usage
+2020,Social,Email Usage,Email Usage,Education Level,High Education,91.66,Age,Email Usage
+2021,Social,Email Usage,Email Usage,Education Level,High Education,86.81,Age,Email Usage
+2022,Social,Email Usage,Email Usage,Education Level,High Education,86.54,Age,Email Usage
+2023,Social,Email Usage,Email Usage,Education Level,High Education,89.27,Age,Email Usage
+2024,Social,Email Usage,Email Usage,Education Level,High Education,91.61,Age,Email Usage
+2025,Social,Email Usage,Email Usage,Education Level,High Education,91.84,Age,Email Usage
+2020,Social,Email Usage,Email Usage,Education Level,Low Education,49.88,Age,Email Usage
+2021,Social,Email Usage,Email Usage,Education Level,Low Education,39.48,Age,Email Usage
+2022,Social,Email Usage,Email Usage,Education Level,Low Education,44.78,Age,Email Usage
+2023,Social,Email Usage,Email Usage,Education Level,Low Education,48.61,Age,Email Usage
+2024,Social,Email Usage,Email Usage,Education Level,Low Education,51.18,Age,Email Usage
+2025,Social,Email Usage,Email Usage,Education Level,Low Education,55.32,Age,Email Usage
+2020,Social,Email Usage,Email Usage,Education Level,Medium Education,74.53,Age,Email Usage
+2021,Social,Email Usage,Email Usage,Education Level,Medium Education,66.36,Age,Email Usage
+2022,Social,Email Usage,Email Usage,Education Level,Medium Education,69.77,Age,Email Usage
+2023,Social,Email Usage,Email Usage,Education Level,Medium Education,73.88,Age,Email Usage
+2024,Social,Email Usage,Email Usage,Education Level,Medium Education,76.49,Age,Email Usage
+2025,Social,Email Usage,Email Usage,Education Level,Medium Education,79.44,Age,Email Usage
+2020,Social,Email Usage,Email Usage,Age Group,55-74,63.34,Age,Email Usage
+2021,Social,Email Usage,Email Usage,Age Group,55-74,59.41,Age,Email Usage
+2022,Social,Email Usage,Email Usage,Age Group,55-74,60.97,Age,Email Usage
+2023,Social,Email Usage,Email Usage,Age Group,55-74,65.75,Age,Email Usage
+2024,Social,Email Usage,Email Usage,Age Group,55-74,68.94,Age,Email Usage
+2025,Social,Email Usage,Email Usage,Age Group,55-74,73.4,Age,Email Usage
+2020,Social,Info Search,Product Information Search,Gender,Female,85.65,Gender,Product Information Search
+2021,Social,Info Search,Product Information Search,Gender,Female,59.3,Gender,Product Information Search
+2022,Social,Info Search,Product Information Search,Gender,Female,60.32,Gender,Product Information Search
+2023,Social,Info Search,Product Information Search,Gender,Female,44.73,Gender,Product Information Search
+2024,Social,Info Search,Product Information Search,Gender,Female,77.3,Gender,Product Information Search
+2025,Social,Info Search,Product Information Search,Gender,Female,79.03,Gender,Product Information Search
+2020,Social,Info Search,Product Information Search,Gender,Male,87.82,Gender,Product Information Search
+2021,Social,Info Search,Product Information Search,Gender,Male,62.56,Gender,Product Information Search
+2022,Social,Info Search,Product Information Search,Gender,Male,61.39,Gender,Product Information Search
+2023,Social,Info Search,Product Information Search,Gender,Male,38.61,Gender,Product Information Search
+2024,Social,Info Search,Product Information Search,Gender,Male,78.23,Gender,Product Information Search
+2025,Social,Info Search,Product Information Search,Gender,Male,81.08,Gender,Product Information Search
+2020,Social,Info Search,Product Information Search,Age Group,16-24,87.62,Age,Product Information Search
+2021,Social,Info Search,Product Information Search,Age Group,16-24,63.91,Age,Product Information Search
+2022,Social,Info Search,Product Information Search,Age Group,16-24,62.74,Age,Product Information Search
+2023,Social,Info Search,Product Information Search,Age Group,16-24,36.77,Age,Product Information Search
+2024,Social,Info Search,Product Information Search,Age Group,16-24,79.03,Age,Product Information Search
+2025,Social,Info Search,Product Information Search,Age Group,16-24,79.26,Age,Product Information Search
+2020,Social,Info Search,Product Information Search,Education Level,High Education,97.01,Age,Product Information Search
+2021,Social,Info Search,Product Information Search,Education Level,High Education,80.73,Age,Product Information Search
+2022,Social,Info Search,Product Information Search,Education Level,High Education,84.94,Age,Product Information Search
+2023,Social,Info Search,Product Information Search,Education Level,High Education,46.64,Age,Product Information Search
+2024,Social,Info Search,Product Information Search,Education Level,High Education,87.29,Age,Product Information Search
+2025,Social,Info Search,Product Information Search,Education Level,High Education,90.52,Age,Product Information Search
+2020,Social,Info Search,Product Information Search,Education Level,Low Education,84.14,Age,Product Information Search
+2021,Social,Info Search,Product Information Search,Education Level,Low Education,54.93,Age,Product Information Search
+2022,Social,Info Search,Product Information Search,Education Level,Low Education,54.17,Age,Product Information Search
+2023,Social,Info Search,Product Information Search,Education Level,Low Education,26.26,Age,Product Information Search
+2024,Social,Info Search,Product Information Search,Education Level,Low Education,71.24,Age,Product Information Search
+2025,Social,Info Search,Product Information Search,Education Level,Low Education,70.21,Age,Product Information Search
+2020,Social,Info Search,Product Information Search,Education Level,Medium Education,92.75,Age,Product Information Search
+2021,Social,Info Search,Product Information Search,Education Level,Medium Education,71.97,Age,Product Information Search
+2022,Social,Info Search,Product Information Search,Education Level,Medium Education,71.37,Age,Product Information Search
+2023,Social,Info Search,Product Information Search,Education Level,Medium Education,49.13,Age,Product Information Search
+2024,Social,Info Search,Product Information Search,Education Level,Medium Education,89.15,Age,Product Information Search
+2025,Social,Info Search,Product Information Search,Education Level,Medium Education,87.13,Age,Product Information Search
+2020,Social,Info Search,Product Information Search,Education Level,High Education,98.04,Age,Product Information Search
+2021,Social,Info Search,Product Information Search,Education Level,High Education,79.08,Age,Product Information Search
+2022,Social,Info Search,Product Information Search,Education Level,High Education,79.03,Age,Product Information Search
+2023,Social,Info Search,Product Information Search,Education Level,High Education,58.88,Age,Product Information Search
+2024,Social,Info Search,Product Information Search,Education Level,High Education,91.05,Age,Product Information Search
+2025,Social,Info Search,Product Information Search,Education Level,High Education,93.11,Age,Product Information Search
+2020,Social,Info Search,Product Information Search,Education Level,Low Education,76.85,Age,Product Information Search
+2021,Social,Info Search,Product Information Search,Education Level,Low Education,43.74,Age,Product Information Search
+2022,Social,Info Search,Product Information Search,Education Level,Low Education,38.42,Age,Product Information Search
+2023,Social,Info Search,Product Information Search,Education Level,Low Education,26.17,Age,Product Information Search
+2024,Social,Info Search,Product Information Search,Education Level,Low Education,60.86,Age,Product Information Search
+2025,Social,Info Search,Product Information Search,Education Level,Low Education,57.56,Age,Product Information Search
+2020,Social,Info Search,Product Information Search,Education Level,Medium Education,94.63,Age,Product Information Search
+2021,Social,Info Search,Product Information Search,Education Level,Medium Education,66.07,Age,Product Information Search
+2022,Social,Info Search,Product Information Search,Education Level,Medium Education,65.82,Age,Product Information Search
+2023,Social,Info Search,Product Information Search,Education Level,Medium Education,45.86,Age,Product Information Search
+2024,Social,Info Search,Product Information Search,Education Level,Medium Education,85.41,Age,Product Information Search
+2025,Social,Info Search,Product Information Search,Education Level,Medium Education,87.4,Age,Product Information Search
+2020,Social,Info Search,Product Information Search,Age Group,25-54,90.67,Age,Product Information Search
+2021,Social,Info Search,Product Information Search,Age Group,25-54,63.77,Age,Product Information Search
+2022,Social,Info Search,Product Information Search,Age Group,25-54,63.71,Age,Product Information Search
+2023,Social,Info Search,Product Information Search,Age Group,25-54,44.79,Age,Product Information Search
+2024,Social,Info Search,Product Information Search,Age Group,25-54,81.1,Age,Product Information Search
+2025,Social,Info Search,Product Information Search,Age Group,25-54,83.36,Age,Product Information Search
+2020,Social,Info Search,Product Information Search,Overall,All Individuals,93.37,Age,Product Information Search
+2021,Social,Info Search,Product Information Search,Overall,All Individuals,68.29,Age,Product Information Search
+2022,Social,Info Search,Product Information Search,Overall,All Individuals,68.4,Age,Product Information Search
+2023,Social,Info Search,Product Information Search,Overall,All Individuals,47.6,Age,Product Information Search
+2024,Social,Info Search,Product Information Search,Overall,All Individuals,85.1,Age,Product Information Search
+2025,Social,Info Search,Product Information Search,Overall,All Individuals,87.6,Age,Product Information Search
+2020,Social,Info Search,Product Information Search,Overall,All Individuals,77.6,Age,Product Information Search
+2021,Social,Info Search,Product Information Search,Overall,All Individuals,46.9,Age,Product Information Search
+2022,Social,Info Search,Product Information Search,Overall,All Individuals,48.41,Age,Product Information Search
+2023,Social,Info Search,Product Information Search,Overall,All Individuals,33.2,Age,Product Information Search
+2024,Social,Info Search,Product Information Search,Overall,All Individuals,67.0,Age,Product Information Search
+2025,Social,Info Search,Product Information Search,Overall,All Individuals,73.19,Age,Product Information Search
+2020,Social,Info Search,Product Information Search,Education Level,High Education,89.28,Age,Product Information Search
+2021,Social,Info Search,Product Information Search,Education Level,High Education,67.27,Age,Product Information Search
+2022,Social,Info Search,Product Information Search,Education Level,High Education,68.96,Age,Product Information Search
+2023,Social,Info Search,Product Information Search,Education Level,High Education,47.69,Age,Product Information Search
+2024,Social,Info Search,Product Information Search,Education Level,High Education,84.52,Age,Product Information Search
+2025,Social,Info Search,Product Information Search,Education Level,High Education,85.29,Age,Product Information Search
+2020,Social,Info Search,Product Information Search,Education Level,Low Education,52.0,Age,Product Information Search
+2021,Social,Info Search,Product Information Search,Education Level,Low Education,28.01,Age,Product Information Search
+2022,Social,Info Search,Product Information Search,Education Level,Low Education,32.22,Age,Product Information Search
+2023,Social,Info Search,Product Information Search,Education Level,Low Education,20.24,Age,Product Information Search
+2024,Social,Info Search,Product Information Search,Education Level,Low Education,45.76,Age,Product Information Search
+2025,Social,Info Search,Product Information Search,Education Level,Low Education,48.16,Age,Product Information Search
+2020,Social,Info Search,Product Information Search,Education Level,Medium Education,76.22,Age,Product Information Search
+2021,Social,Info Search,Product Information Search,Education Level,Medium Education,49.96,Age,Product Information Search
+2022,Social,Info Search,Product Information Search,Education Level,Medium Education,50.98,Age,Product Information Search
+2023,Social,Info Search,Product Information Search,Education Level,Medium Education,33.86,Age,Product Information Search
+2024,Social,Info Search,Product Information Search,Education Level,Medium Education,68.1,Age,Product Information Search
+2025,Social,Info Search,Product Information Search,Education Level,Medium Education,72.33,Age,Product Information Search
+2020,Social,Info Search,Product Information Search,Age Group,55-74,64.39,Age,Product Information Search
+2021,Social,Info Search,Product Information Search,Age Group,55-74,43.88,Age,Product Information Search
+2022,Social,Info Search,Product Information Search,Age Group,55-74,45.15,Age,Product Information Search
+2023,Social,Info Search,Product Information Search,Age Group,55-74,30.68,Age,Product Information Search
+2024,Social,Info Search,Product Information Search,Age Group,55-74,61.02,Age,Product Information Search
+2025,Social,Info Search,Product Information Search,Age Group,55-74,65.04,Age,Product Information Search
+2020,Social,News Reading,Online News Reading,Gender,Female,74.28,Gender,Online News Reading
+2021,Social,News Reading,Online News Reading,Gender,Female,53.68,Gender,Online News Reading
+2022,Social,News Reading,Online News Reading,Gender,Female,55.37,Gender,Online News Reading
+2023,Social,News Reading,Online News Reading,Gender,Female,55.17,Gender,Online News Reading
+2024,Social,News Reading,Online News Reading,Gender,Female,59.66,Gender,Online News Reading
+2025,Social,News Reading,Online News Reading,Gender,Female,60.33,Gender,Online News Reading
+2020,Social,News Reading,Online News Reading,Gender,Male,78.31,Gender,Online News Reading
+2021,Social,News Reading,Online News Reading,Gender,Male,59.79,Gender,Online News Reading
+2022,Social,News Reading,Online News Reading,Gender,Male,60.12,Gender,Online News Reading
+2023,Social,News Reading,Online News Reading,Gender,Male,62.89,Gender,Online News Reading
+2024,Social,News Reading,Online News Reading,Gender,Male,66.18,Gender,Online News Reading
+2025,Social,News Reading,Online News Reading,Gender,Male,68.09,Gender,Online News Reading
+2020,Social,News Reading,Online News Reading,Age Group,16-24,71.28,Age,Online News Reading
+2021,Social,News Reading,Online News Reading,Age Group,16-24,54.85,Age,Online News Reading
+2022,Social,News Reading,Online News Reading,Age Group,16-24,54.75,Age,Online News Reading
+2023,Social,News Reading,Online News Reading,Age Group,16-24,53.47,Age,Online News Reading
+2024,Social,News Reading,Online News Reading,Age Group,16-24,55.58,Age,Online News Reading
+2025,Social,News Reading,Online News Reading,Age Group,16-24,55.46,Age,Online News Reading
+2020,Social,News Reading,Online News Reading,Education Level,High Education,91.24,Age,Online News Reading
+2021,Social,News Reading,Online News Reading,Education Level,High Education,77.67,Age,Online News Reading
+2022,Social,News Reading,Online News Reading,Education Level,High Education,78.64,Age,Online News Reading
+2023,Social,News Reading,Online News Reading,Education Level,High Education,67.54,Age,Online News Reading
+2024,Social,News Reading,Online News Reading,Education Level,High Education,76.02,Age,Online News Reading
+2025,Social,News Reading,Online News Reading,Education Level,High Education,72.98,Age,Online News Reading
+2020,Social,News Reading,Online News Reading,Education Level,Low Education,65.49,Age,Online News Reading
+2021,Social,News Reading,Online News Reading,Education Level,Low Education,44.6,Age,Online News Reading
+2022,Social,News Reading,Online News Reading,Education Level,Low Education,45.96,Age,Online News Reading
+2023,Social,News Reading,Online News Reading,Education Level,Low Education,43.89,Age,Online News Reading
+2024,Social,News Reading,Online News Reading,Education Level,Low Education,47.09,Age,Online News Reading
+2025,Social,News Reading,Online News Reading,Education Level,Low Education,44.71,Age,Online News Reading
+2020,Social,News Reading,Online News Reading,Education Level,Medium Education,79.35,Age,Online News Reading
+2021,Social,News Reading,Online News Reading,Education Level,Medium Education,63.73,Age,Online News Reading
+2022,Social,News Reading,Online News Reading,Education Level,Medium Education,63.43,Age,Online News Reading
+2023,Social,News Reading,Online News Reading,Education Level,Medium Education,63.83,Age,Online News Reading
+2024,Social,News Reading,Online News Reading,Education Level,Medium Education,65.14,Age,Online News Reading
+2025,Social,News Reading,Online News Reading,Education Level,Medium Education,64.67,Age,Online News Reading
+2020,Social,News Reading,Online News Reading,Education Level,High Education,93.44,Age,Online News Reading
+2021,Social,News Reading,Online News Reading,Education Level,High Education,77.37,Age,Online News Reading
+2022,Social,News Reading,Online News Reading,Education Level,High Education,77.9,Age,Online News Reading
+2023,Social,News Reading,Online News Reading,Education Level,High Education,79.14,Age,Online News Reading
+2024,Social,News Reading,Online News Reading,Education Level,High Education,81.86,Age,Online News Reading
+2025,Social,News Reading,Online News Reading,Education Level,High Education,81.88,Age,Online News Reading
+2020,Social,News Reading,Online News Reading,Education Level,Low Education,63.24,Age,Online News Reading
+2021,Social,News Reading,Online News Reading,Education Level,Low Education,39.56,Age,Online News Reading
+2022,Social,News Reading,Online News Reading,Education Level,Low Education,39.22,Age,Online News Reading
+2023,Social,News Reading,Online News Reading,Education Level,Low Education,40.14,Age,Online News Reading
+2024,Social,News Reading,Online News Reading,Education Level,Low Education,44.66,Age,Online News Reading
+2025,Social,News Reading,Online News Reading,Education Level,Low Education,44.79,Age,Online News Reading
+2020,Social,News Reading,Online News Reading,Education Level,Medium Education,84.0,Age,Online News Reading
+2021,Social,News Reading,Online News Reading,Education Level,Medium Education,59.74,Age,Online News Reading
+2022,Social,News Reading,Online News Reading,Education Level,Medium Education,62.07,Age,Online News Reading
+2023,Social,News Reading,Online News Reading,Education Level,Medium Education,64.14,Age,Online News Reading
+2024,Social,News Reading,Online News Reading,Education Level,Medium Education,66.3,Age,Online News Reading
+2025,Social,News Reading,Online News Reading,Education Level,Medium Education,67.03,Age,Online News Reading
+2020,Social,News Reading,Online News Reading,Age Group,25-54,81.28,Age,Online News Reading
+2021,Social,News Reading,Online News Reading,Age Group,25-54,59.69,Age,Online News Reading
+2022,Social,News Reading,Online News Reading,Age Group,25-54,60.83,Age,Online News Reading
+2023,Social,News Reading,Online News Reading,Age Group,25-54,62.73,Age,Online News Reading
+2024,Social,News Reading,Online News Reading,Age Group,25-54,66.35,Age,Online News Reading
+2025,Social,News Reading,Online News Reading,Age Group,25-54,67.85,Age,Online News Reading
+2020,Social,News Reading,Online News Reading,Overall,All Individuals,84.03,Age,Online News Reading
+2021,Social,News Reading,Online News Reading,Overall,All Individuals,63.6,Age,Online News Reading
+2022,Social,News Reading,Online News Reading,Overall,All Individuals,64.8,Age,Online News Reading
+2023,Social,News Reading,Online News Reading,Overall,All Individuals,66.61,Age,Online News Reading
+2024,Social,News Reading,Online News Reading,Overall,All Individuals,69.73,Age,Online News Reading
+2025,Social,News Reading,Online News Reading,Overall,All Individuals,71.72,Age,Online News Reading
+2020,Social,News Reading,Online News Reading,Overall,All Individuals,66.05,Age,Online News Reading
+2021,Social,News Reading,Online News Reading,Overall,All Individuals,44.62,Age,Online News Reading
+2022,Social,News Reading,Online News Reading,Overall,All Individuals,49.49,Age,Online News Reading
+2023,Social,News Reading,Online News Reading,Overall,All Individuals,46.85,Age,Online News Reading
+2024,Social,News Reading,Online News Reading,Overall,All Individuals,56.89,Age,Online News Reading
+2025,Social,News Reading,Online News Reading,Overall,All Individuals,57.64,Age,Online News Reading
+2020,Social,News Reading,Online News Reading,Education Level,High Education,81.69,Age,Online News Reading
+2021,Social,News Reading,Online News Reading,Education Level,High Education,66.52,Age,Online News Reading
+2022,Social,News Reading,Online News Reading,Education Level,High Education,64.99,Age,Online News Reading
+2023,Social,News Reading,Online News Reading,Education Level,High Education,67.58,Age,Online News Reading
+2024,Social,News Reading,Online News Reading,Education Level,High Education,71.58,Age,Online News Reading
+2025,Social,News Reading,Online News Reading,Education Level,High Education,74.52,Age,Online News Reading
+2020,Social,News Reading,Online News Reading,Education Level,Low Education,42.89,Age,Online News Reading
+2021,Social,News Reading,Online News Reading,Education Level,Low Education,27.54,Age,Online News Reading
+2022,Social,News Reading,Online News Reading,Education Level,Low Education,31.74,Age,Online News Reading
+2023,Social,News Reading,Online News Reading,Education Level,Low Education,34.28,Age,Online News Reading
+2024,Social,News Reading,Online News Reading,Education Level,Low Education,38.59,Age,Online News Reading
+2025,Social,News Reading,Online News Reading,Education Level,Low Education,36.4,Age,Online News Reading
+2020,Social,News Reading,Online News Reading,Education Level,Medium Education,64.68,Age,Online News Reading
+2021,Social,News Reading,Online News Reading,Education Level,Medium Education,46.73,Age,Online News Reading
+2022,Social,News Reading,Online News Reading,Education Level,Medium Education,47.97,Age,Online News Reading
+2023,Social,News Reading,Online News Reading,Education Level,Medium Education,48.9,Age,Online News Reading
+2024,Social,News Reading,Online News Reading,Education Level,Medium Education,55.59,Age,Online News Reading
+2025,Social,News Reading,Online News Reading,Education Level,Medium Education,57.43,Age,Online News Reading
+2020,Social,News Reading,Online News Reading,Age Group,55-74,53.66,Age,Online News Reading
+2021,Social,News Reading,Online News Reading,Age Group,55-74,43.26,Age,Online News Reading
+2022,Social,News Reading,Online News Reading,Age Group,55-74,45.0,Age,Online News Reading
+2023,Social,News Reading,Online News Reading,Age Group,55-74,45.78,Age,Online News Reading
+2024,Social,News Reading,Online News Reading,Age Group,55-74,52.59,Age,Online News Reading
+2025,Social,News Reading,Online News Reading,Age Group,55-74,53.97,Age,Online News Reading
+2020,Social,Social Media,Social Media Participation,Gender,Female,54.35,Gender,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Gender,Female,47.23,Gender,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Gender,Female,47.88,Gender,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Gender,Female,49.16,Gender,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Gender,Female,58.66,Gender,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Gender,Female,59.95,Gender,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Gender,Male,54.25,Gender,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Gender,Male,45.97,Gender,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Gender,Male,47.58,Gender,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Gender,Male,48.06,Gender,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Gender,Male,57.39,Gender,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Gender,Male,58.53,Gender,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Age Group,16-24,88.54,Age,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Age Group,16-24,77.95,Age,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Age Group,16-24,76.55,Age,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Age Group,16-24,73.06,Age,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Age Group,16-24,83.99,Age,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Age Group,16-24,85.37,Age,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Education Level,High Education,93.13,Age,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Education Level,High Education,87.45,Age,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Education Level,High Education,79.2,Age,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Education Level,High Education,75.17,Age,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Education Level,High Education,88.93,Age,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Education Level,High Education,91.11,Age,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Education Level,Low Education,88.45,Age,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Education Level,Low Education,75.32,Age,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Education Level,Low Education,73.88,Age,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Education Level,Low Education,67.82,Age,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Education Level,Low Education,81.01,Age,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Education Level,Low Education,81.63,Age,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Education Level,Medium Education,88.22,Age,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Education Level,Medium Education,79.77,Age,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Education Level,Medium Education,79.87,Age,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Education Level,Medium Education,79.51,Age,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Education Level,Medium Education,87.64,Age,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Education Level,Medium Education,88.41,Age,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Education Level,High Education,65.25,Age,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Education Level,High Education,60.14,Age,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Education Level,High Education,64.7,Age,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Education Level,High Education,65.03,Age,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Education Level,High Education,74.04,Age,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Education Level,High Education,74.33,Age,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Education Level,Low Education,67.48,Age,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Education Level,Low Education,47.03,Age,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Education Level,Low Education,41.07,Age,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Education Level,Low Education,44.53,Age,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Education Level,Low Education,62.44,Age,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Education Level,Low Education,60.95,Age,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Education Level,Medium Education,62.57,Age,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Education Level,Medium Education,54.92,Age,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Education Level,Medium Education,58.58,Age,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Education Level,Medium Education,58.84,Age,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Education Level,Medium Education,69.35,Age,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Education Level,Medium Education,70.1,Age,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Age Group,25-54,55.29,Age,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Age Group,25-54,47.56,Age,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Age Group,25-54,49.26,Age,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Age Group,25-54,51.05,Age,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Age Group,25-54,61.13,Age,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Age Group,25-54,62.15,Age,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Overall,All Individuals,57.25,Age,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Overall,All Individuals,50.18,Age,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Overall,All Individuals,52.9,Age,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Overall,All Individuals,54.16,Age,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Overall,All Individuals,63.52,Age,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Overall,All Individuals,64.34,Age,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Overall,All Individuals,52.44,Age,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Overall,All Individuals,48.07,Age,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Overall,All Individuals,47.56,Age,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Overall,All Individuals,49.35,Age,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Overall,All Individuals,58.08,Age,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Overall,All Individuals,60.42,Age,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Education Level,High Education,27.37,Age,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Education Level,High Education,28.23,Age,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Education Level,High Education,26.96,Age,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Education Level,High Education,28.65,Age,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Education Level,High Education,33.12,Age,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Education Level,High Education,37.76,Age,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Education Level,Low Education,21.87,Age,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Education Level,Low Education,18.05,Age,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Education Level,Low Education,19.01,Age,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Education Level,Low Education,23.08,Age,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Education Level,Low Education,29.64,Age,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Education Level,Low Education,35.07,Age,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Education Level,Medium Education,26.11,Age,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Education Level,Medium Education,22.96,Age,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Education Level,Medium Education,23.15,Age,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Education Level,Medium Education,25.01,Age,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Education Level,Medium Education,33.01,Age,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Education Level,Medium Education,33.2,Age,Social Media Participation
+2020,Social,Social Media,Social Media Participation,Age Group,55-74,16.84,Age,Social Media Participation
+2021,Social,Social Media,Social Media Participation,Age Group,55-74,15.17,Age,Social Media Participation
+2022,Social,Social Media,Social Media Participation,Age Group,55-74,16.19,Age,Social Media Participation
+2023,Social,Social Media,Social Media Participation,Age Group,55-74,17.21,Age,Social Media Participation
+2024,Social,Social Media,Social Media Participation,Age Group,55-74,22.7,Age,Social Media Participation
+2025,Social,Social Media,Social Media Participation,Age Group,55-74,24.59,Age,Social Media Participation
+2020,Ecommerce,Ecommerce,All purchase frequency categories,Age Group,16-24,55.73,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2020,Ecommerce,Ecommerce,All purchase frequency categories,Age Group,25-54,69.78,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2020,Ecommerce,Ecommerce,All purchase frequency categories,Age Group,55-74,36.88,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2020,Ecommerce,Ecommerce,All purchase frequency categories,Education Level,High Education,220.76,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2020,Ecommerce,Ecommerce,All purchase frequency categories,Education Level,Low Education,108.75,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2020,Ecommerce,Ecommerce,All purchase frequency categories,Education Level,Medium Education,176.56,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2020,Ecommerce,Ecommerce,All purchase frequency categories,Gender,Female,56.16,Gender,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2020,Ecommerce,Ecommerce,All purchase frequency categories,Gender,Male,58.01,Gender,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2020,Ecommerce,Ecommerce,All purchase frequency categories,Overall,All Individuals,157.92,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2021,Ecommerce,Ecommerce,All purchase frequency categories,Age Group,16-24,46.07,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2021,Ecommerce,Ecommerce,All purchase frequency categories,Age Group,25-54,50.81,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2021,Ecommerce,Ecommerce,All purchase frequency categories,Age Group,55-74,30.03,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2021,Ecommerce,Ecommerce,All purchase frequency categories,Education Level,High Education,179.40,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2021,Ecommerce,Ecommerce,All purchase frequency categories,Education Level,Low Education,71.07,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2021,Ecommerce,Ecommerce,All purchase frequency categories,Education Level,Medium Education,133.87,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2021,Ecommerce,Ecommerce,All purchase frequency categories,Gender,Female,43.68,Gender,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2021,Ecommerce,Ecommerce,All purchase frequency categories,Gender,Male,41.62,Gender,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2021,Ecommerce,Ecommerce,All purchase frequency categories,Overall,All Individuals,122.29,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2023,Ecommerce,Ecommerce,All purchase frequency categories,Age Group,16-24,47.96,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2023,Ecommerce,Ecommerce,All purchase frequency categories,Age Group,25-54,54.72,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2023,Ecommerce,Ecommerce,All purchase frequency categories,Age Group,55-74,32.82,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2023,Ecommerce,Ecommerce,All purchase frequency categories,Education Level,High Education,188.94,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2023,Ecommerce,Ecommerce,All purchase frequency categories,Education Level,Low Education,79.63,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2023,Ecommerce,Ecommerce,All purchase frequency categories,Education Level,Medium Education,144.48,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2023,Ecommerce,Ecommerce,All purchase frequency categories,Gender,Female,46.94,Gender,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2023,Ecommerce,Ecommerce,All purchase frequency categories,Gender,Male,45.11,Gender,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2023,Ecommerce,Ecommerce,All purchase frequency categories,Overall,All Individuals,129.92,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2025,Ecommerce,Ecommerce,All purchase frequency categories,Age Group,16-24,46.70,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2025,Ecommerce,Ecommerce,All purchase frequency categories,Age Group,25-54,56.88,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2025,Ecommerce,Ecommerce,All purchase frequency categories,Age Group,55-74,37.04,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2025,Ecommerce,Ecommerce,All purchase frequency categories,Education Level,High Education,177.56,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2025,Ecommerce,Ecommerce,All purchase frequency categories,Education Level,Low Education,82.36,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2025,Ecommerce,Ecommerce,All purchase frequency categories,Education Level,Medium Education,147.57,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2025,Ecommerce,Ecommerce,All purchase frequency categories,Gender,Female,47.65,Gender,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2025,Ecommerce,Ecommerce,All purchase frequency categories,Gender,Male,49.13,Gender,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
+2025,Ecommerce,Ecommerce,All purchase frequency categories,Overall,All Individuals,140.84,Age,Moderate Purchase Frequency (3–5 purchases) + High Purchase Frequency (6–10 purchases) + Very High Purchase Frequency (10+ purchases)
