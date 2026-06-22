@@ -170,7 +170,7 @@ The analysis includes:
 
 ## 5. Dashboard Development
 
-Dashboard development is currently in progress. The final dashboard will focus on the following pages:
+The final Tableau dashboard focuses on the following pages:
 
 * Overview
 * Demographic analysis
@@ -182,14 +182,19 @@ Dashboard development is currently in progress. The final dashboard will focus o
 
 The dashboard is designed to communicate the main findings from the cleaned Eurostat data in a clear and visual format.
 
-The current dashboard work includes:
+The completed dashboard includes:
 
 * Overview of digital activity and e-commerce trends
 * Demographic comparison by age group
 * Education-level activity comparison
 * E-commerce purchasing behavior over time
+* Key insights and summary findings
 
-The key insights and summary findings page is still being prepared.
+To view the completed dashboard, open the final packaged Tableau workbook:
+
+* `Tableau - Trend Analysis Final.twbx`
+
+This workbook contains the interactive dashboard pages and visual analysis built for the project.
 
 ---
 
